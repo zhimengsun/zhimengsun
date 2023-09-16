@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently using Go,ReactNative,ML
+- 🌱 I’m currently using Go,Ruby,ReactNative, and learning ML,AI related
 - 🤔 I'm looking for excellent people to collaborate with.
 - 📫 Contact me: zhimengsun@gmail.com
 
